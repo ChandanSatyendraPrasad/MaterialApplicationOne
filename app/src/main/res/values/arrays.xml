@@ -58,8 +58,8 @@
 
     <string-array name="fonts_values">
         <item>Chunkfive.otf</item>
-        <item>FontleroyBrown.ttf</item>
-        <item>Wonderbar Demo.otf</item>
+        <item>FontleroyBrownNF.otf</item>
+        <item>WonderbarDemo.otf</item>
     </string-array>
 
 
